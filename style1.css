@@ -1,11 +1,5 @@
 
-html ,body  {
-	
-	
-	color:grey;
-	height:100%;
-	
-}
+
 
 
 .bg{
@@ -14,7 +8,7 @@ background:url("background.jpg");
 
  background-position: center;
   background-repeat: no-repeat;
-  background-size: 100% ;
+  background-size: cover ;
 
 
 }
